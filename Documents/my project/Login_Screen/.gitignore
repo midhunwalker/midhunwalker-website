@@ -24,10 +24,6 @@ Thumbs.db
 
 # Optional: Test/coverage files
 coverage/
-
-backend/firebase-service-account.json
+# .gitignore
 firebase-service-account.json
-backend/firebase-service-account.json
-backend/firebase-service-account.json
-backend/firebase-service-account.json
 backend/firebase-service-account.json
