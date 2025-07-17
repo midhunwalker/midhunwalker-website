@@ -1,6 +1,7 @@
 # Dependency directories
-node_modules/
-.env
+frontend/node_modules/
+backend/node_modules/
+backend/.env
 .env.*   # all env variants
 
 # Firebase
@@ -24,3 +25,5 @@ Thumbs.db
 # Optional: Test/coverage files
 coverage/
 
+backend/firebase-service-account.json
+firebase-service-account.json
